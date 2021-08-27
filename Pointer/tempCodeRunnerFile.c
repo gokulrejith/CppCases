@@ -1,0 +1,1 @@
+int *findMid(int a[], int n);
